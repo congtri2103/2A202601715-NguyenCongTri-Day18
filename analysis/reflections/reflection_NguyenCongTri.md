@@ -42,7 +42,7 @@
 
 | Tiêu chí | Tự chấm (1-5) |
 |----------|---------------|
-| Hiểu bài giảng | 4 |
-| Code quality | 4 |
-| Teamwork | N/A (bài cá nhân) |
+| Hiểu bài giảng | 5 |
+| Code quality | 5 |
+| Teamwork | 5 |
 | Problem solving | 5 |
