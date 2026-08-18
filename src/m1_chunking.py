@@ -141,7 +141,6 @@ def chunk_hierarchical(text: str, parent_size: int = HIERARCHICAL_PARENT_SIZE,
         (parents, children) — mỗi child có parent_id link đến parent.
     """
     metadata = metadata or {}
-
     paragraphs = [p.strip() for p in text.split("\n\n") if p.strip()]
     # 1. Gộp paragraphs thành parent chunks (≤ parent_size chars)
     parents: list[Chunk] = []
